@@ -6,3 +6,6 @@ presentation*.pdf
 *.snm
 *.toc
 *.vrb
+.DS_Store
+*.bak
+*.pdf-view-restore
